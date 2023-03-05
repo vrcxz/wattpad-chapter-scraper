@@ -1,5 +1,5 @@
 # wattpad-chapter-scraper
-A C++ program to fetch wattpad chapters with curl for offline viewing.
+A C++ program to fetch wattpad chapters with curl for offline reading.
 
 The program should download [Hell University](https://www.wattpad.com/story/62354932-hell-university-published217870003-hell-university-published-chapter-1) by [KIB](https://www.wattpad.com/user/KnightInBlack) in the same directory the main program is located when ran.
 
